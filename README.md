@@ -52,7 +52,7 @@ The UI was based on a design provided via Figma. Some modifications were made du
 
 ---
 
-## 🚀 Getting Started (Optional Vite Setup)
+## Getting Started (Optional Vite Setup)
 
 You can use [Vite](https://vitejs.dev/) to serve your project locally:
 
